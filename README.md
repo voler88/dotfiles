@@ -26,7 +26,7 @@ All the following theses are personal opinions.
 
 1. Install and update the OS in any way.
 2. Setup network connection.
-3. Clone repo and run [`install.sh`](install.sh) script.
+3. Clone repo and run [`install.sh`](install.sh) script:
 
 ```bash
 git clone https://github.com/voler88/dotfiles.git && cd dotfiles && source install.sh
