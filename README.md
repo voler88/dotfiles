@@ -4,7 +4,8 @@ Setup work environment in Linux OS.
 
 ## Description
 
-A collection of software developments from the author's vision for the workstation.  
+A collection of software developments from the author's vision
+for the workstation.  
 All the following theses are personal opinions.
 
 ### Core software used
@@ -13,7 +14,8 @@ All the following theses are personal opinions.
 
 > - A quick rollback feature when upgrading with package managment.
 > - Up-to-date versions of most programs.
-> - Beautiful and lightweight window manager with flexible settings of windows and key bindings.
+> - Beautiful and lightweight window manager with flexible settings of windows
+    and key bindings.
 
 - **Deployment tool**: Ansible
 
