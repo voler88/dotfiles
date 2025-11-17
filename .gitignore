@@ -1,2 +1,6 @@
 *.swo
 *.swp
+
+# Private settings.
+home/config/nixos/machines/*
+!home/config/nixos/machines/.gitkeep
